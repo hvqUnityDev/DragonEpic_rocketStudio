@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cff621290f60af44f84e96d09d664234, type: 3}
+  m_Name: Malkior
+  m_EditorClassIdentifier: 
+  dragon: {fileID: 263397163509717446, guid: 80630e3b003e2014382654ab468e69ca, type: 3}
+  maxHP: 10
+  damage: 1
+  delayShot: 0.5
+  level: 0
